@@ -27,4 +27,4 @@ Data collection:
 ./block-stack.py --interval 5 --no-header > stats.data
 `
 
-For details, please refer to the medium [article](https://medium.com/@buraks78/a-systems-engineering-attempt-to-analyze-the-linux-block-layer-with-bpf-compiler-collection-bcc-5dc695de2dbf).
+For details, please refer to my blog [article](https://logicexception.blogspot.com/2023/01/a-systems-engineering-attempt-to.html).
